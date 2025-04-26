@@ -5,11 +5,7 @@
 
 - 🌱 Изучаю **TypeScript, React, Next.js и AI технологии**
 
-- 👨‍💻 Все мои проекты доступны на [GitHub](https://github.com/anonymous00009101)
-
-- 📫 Связаться со мной: **your_email@example.com**
-
-- ⚡ Факт обо мне: *Обожаю программировать под любимую музыку 🎧*
+- 👨‍💻 Все мои проекты доступны на [GitHub](https://github.com/forGoodtime)
 
 ---
 
@@ -26,15 +22,6 @@
 ---
 
 ### 📊 Статистика GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymous00009101&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forGoodtime&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous00009101&layout=compact&theme=radical)
-
----
-
-### 💡 Цитата дня:
-> *"Код — это поэзия разума."*
-
-Спасибо, что заглянул! Удачи тебе ✨
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forGoodtime&layout=compact&theme=radical)
