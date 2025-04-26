@@ -1,20 +1,17 @@
 <h1 align="center">Привет 👋, я Бекзат</h1>
-<h3 align="center">Разработчик, исследователь новых технологий и создатель крутых проектов 🚀</h3>
+<h3 align="center">DevOps | Machine Learning | AI | Cybersecurity Enthusiast</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75000&lines=Data+Science+%7C+DevSecOps+%7C+AI+%7C+ML;Люблю+изучать+новые+вещи;Работаю+над+открытыми+проектами" />
+  🔭 Сейчас работаю над проектами в сфере <b>DevOps</b>, <b>Machine Learning/AI</b> и <b>Кибербезопасности</b>.<br>
+  🌱 Активно изучаю <b>ML/AI технологии</b>, <b>инфраструктуру DevOps</b> и <b>защиту информационных систем</b>.<br>
+  👨‍💻 Все мои проекты доступны на <a href="https://github.com/forGoodtime"><b>GitHub</b></a>.
 </p>
 
 ---
 
-- 🔭 Сейчас работаю над **интересными проектами с открытым исходным кодом**
-- 🌱 Изучаю **TypeScript, React, Next.js и AI технологии**
-- 👨‍💻 Все мои проекты доступны на [GitHub](https://github.com/forGoodtime)
-
----
-
-### 🛠️ Технологии и инструменты:
-
+<h3 align="center">🛠️ Технологии и Инструменты</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" alt="Debian"/>
@@ -28,9 +25,10 @@
 
 ---
 
-### 📈 Моя GitHub Статистика:
-
+<h3 align="center">📊 Статистика GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forGoodtime&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forGoodtime&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=forGoodtime&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forGoodtime&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
